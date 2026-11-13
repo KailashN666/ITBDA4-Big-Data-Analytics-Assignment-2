@@ -1,0 +1,7 @@
+doc1.txt	occurrences=1  locations=(1,10)
+doc2.txt	occurrences=2  locations=(1,9) (33,5)
+doc3.txt	occurrences=6  locations=(1,8) (40,22) (46,2) (50,23) (52,15) (54,6)
+doc4.txt	occurrences=0  locations=
+doc5.txt	occurrences=3  locations=(1,12) (3,14) (23,21)
+doc6.txt	occurrences=0  locations=
+doc7.txt	occurrences=0  locations=
